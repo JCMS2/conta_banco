@@ -7,7 +7,7 @@ public class ContaBanco {
     public static void main(String[] args) {
      contabanco2 p1 = new contabanco2();
      p1.setNumconta(1111);
-     p1.setDono("josé");
+     p1.setDono("josé oi ");
      p1.setSaldo(0);
      p1.abrirconta("cc");
      p1.depositar(300);
